@@ -1,7 +1,6 @@
 # JavaScript
 ![alt text](img/js.webp)
 ### Типизатсияи чавасткрипт динамичискиай. Ва чавасткриптро барои зинда кардани вебсайт сохтаанд.Чавасткрипт ин единий забони барномасози мебошад.
-
 # Who create Javascript ?
 ![alt text](img/brendan.jpg)
 ### Чавскриптро Brendan Eich дар мудати 10 руз сохтааст. Номи аваали чавасткрипт Mocha будааст. Баъдан номашро liveScript мемонанд.Дар охир номашро JfvfScript монданд.
@@ -55,4 +54,45 @@
 ![alt text](img/array.png)
 #### function
 ![alt text](img/function.png)
+
+# Operators in JavaScript  ?
+## Arithmetics
+### +,-,*,/;
+## Comparison
+### ==,===,>=,<=,!=,!==>;
+## Logical
+### ||,&&,!;
+## Assignment
+### =,+=,-=,*=,/=,%=;
+
+
+# There three type of condition  ?
+## 1. If/else;
+## 1. swich case;
+## 1. Ternary operator;
+
+
+# There are three type of Loop   ?
+## For;
+## While;
+## DoWhile;
+
+
+ # Function 
+ ## 3 намуди навиштани Function мавчуд аст:
+ ### Function declaration
+![alt text](img/Functions-in-C-(1)-768.png)
+ ### Function expression
+![alt text](img/maxresdefault.jpg)
+ ### Function IIFE (Immediately Invoked)
+![alt text](<img/Без названия-1.png>)
+
+# Function expression 2хел мешавад:
+## Arrow function
+![alt text](img/1_cpweITGZb0NXVhU9gYc8Lw.png)
+## Anonymous function
+![alt text](<img/Снимок экрана 2024-03-14 141739-1.png>)
+
+
+## Фарки function declaration аз дигар function-хо ин аст ки мо function declaretion-ро дар хама чо фарёд дода метонем. Дигар function -хоро танхо дар поёни кодхо фарёд карда метавонем.
 
